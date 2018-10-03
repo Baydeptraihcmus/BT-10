@@ -1,0 +1,17 @@
+{
+  "name": "bt-10",
+  "description": "Bài tập 10",
+  "main": "index.js",
+  "authors": [
+    "vovanbay <vovanbayhcmus@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/Baydeptraihcmus/BT-10",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
