@@ -1,35 +1,37 @@
-# Cài đặt global
-> npm i -g bower gulp yo 
+```
+    $$$$$$$\   $$$$$$\   $$$$$$\  $$\   $$\  $$$$$$\  $$\   $$\ $$\     $$\ $$$$$$$$\ $$\   $$\
+    $$  __$$\ $$  __$$\ $$  __$$\ $$$\  $$ |$$  __$$\ $$ |  $$ |\$$\   $$  |$$  _____|$$$\  $$ |
+    $$ |  $$ |$$ /  $$ |$$ /  $$ |$$$$\ $$ |$$ /  \__|$$ |  $$ | \$$\ $$  / $$ |      $$$$\ $$ |
+    $$$$$$$\ |$$$$$$$$ |$$ |  $$ |$$ $$\$$ |$$ |$$$$\ $$ |  $$ |  \$$$$  /  $$$$$\    $$ $$\$$ |
+    $$  __$$\ $$  __$$ |$$ |  $$ |$$ \$$$$ |$$ |\_$$ |$$ |  $$ |   \$$  /   $$  __|   $$ \$$$$ |
+    $$ |  $$ |$$ |  $$ |$$ |  $$ |$$ |\$$$ |$$ |  $$ |$$ |  $$ |    $$ |    $$ |      $$ |\$$$ |
+    $$$$$$$  |$$ |  $$ | $$$$$$  |$$ | \$$ |\$$$$$$  |\$$$$$$  |    $$ |    $$$$$$$$\ $$ | \$$ |
+    \_______/ \__|  \__| \______/ \__|  \__| \______/  \______/     \__|    \________|\__|  \__|
 
-# Cài đặt dự án
+    Coding by: Bao Nguyen
+    Tel: 0.96.96.89.89.3
+    Email: baonguyenyam@gmail.com
+    URL: fb.com/pham.nguyen.bao.nguyen,
+    baonguyenyam.github.io/cv
+    FullStack Vietnam: https://fullstackvietnam.com/
+```
+# Cài đặt
 
-Lệnh tạo file package.json
-> npm init
+> npm i 
 
-Lệnh sử dụng lại dự án 
-> npm i
+và 
 
-Lệnh sử dụng lại dự án cho bower 
-> bower update
+> bower update 
 
-Lệnh tạo file bower.json 
-> bower init
+# Chạy dự án 
 
-Cài một plugins nào đó cho node đánh lệnh 
-> npm i gulp
+> npm start
 
-Cài một plugins nào đó cho node mà chạy global đánh lệnh 
-> npm i -g gulp 
+# Cấu hình
 
-Cài đúng version nào đó đánh 
-> npm i gulp@3.4.5
+- Xem file `config.json`
+- Xem các files trong thư mục `tasks`
 
-Để lưu vào npm hay bower bạn phải đánh thêm -S hoặc -D
-> npm i gulp -D
+# Tạo Favicon
 
-Chúng ta phải thêm .gitignore
-> touch .gitignore
-
-Tương tự cho bower 
-
-Tại sao ng ta lại sử dụng chúng?
+https://www.favicon-generator.org/
