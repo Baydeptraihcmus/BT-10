@@ -1,2 +1,1 @@
-// Main
-console.log('FullStack Vietnam!')
+console.log('FullStack Vietnam')
